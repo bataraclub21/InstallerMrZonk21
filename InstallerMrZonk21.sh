@@ -1,5 +1,4 @@
 clear
-cd Zonk
 python2 BATARA.py
 #!/bin/bash
 #version 1.0
