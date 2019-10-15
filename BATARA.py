@@ -1,7 +1,8 @@
 import os, sys
 
 print ("\033[1;32mMasukan UserName&Password:)")
-print ("\033[1;31;1mKalo Gak Tau Pm Mr.BAJINGAN 083108271123")
+print ("\033[1;31;1mKalo Gak Tau PM Mr.Zonk 082253699560")
+print ("\033[1;30;1mSyaratnya Harus Subcribe&Share Yt Mr Zonk.")
 username = 'MrZonk21'      
 password = 'BATARA21'
 
